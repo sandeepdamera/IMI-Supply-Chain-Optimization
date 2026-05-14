@@ -21,3 +21,5 @@ This project builds a data-driven model to optimize shipment allocation, forecas
 
 ## Author
 Sandeep Damera
+MS Business Analytics 
+Business/Data Analyst

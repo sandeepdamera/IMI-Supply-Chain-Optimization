@@ -1,6 +1,5 @@
-# IMI-Supply-Chain-Optimization
-Supply Chain Cost &amp; Profit Optimization Model using ML &amp; Linear Programming
 # IMI Supply Chain Cost & Profit Optimization
+Supply Chain Cost &amp; Profit Optimization Model using ML &amp; Linear Programming
 
 ## Overview
 This project builds a data-driven model to optimize shipment allocation, forecast fuel prices, and reduce logistics costs.
